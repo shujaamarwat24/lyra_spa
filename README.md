@@ -21,6 +21,10 @@ None of the technologies or approaches used in this project were new to me. Howe
 ## Setup
 
 ```
+npm install
+```
+
+```
 npm start
 ```
 
