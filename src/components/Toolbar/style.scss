@@ -1,0 +1,27 @@
+.toolbar{
+  width: 60px;
+  height: 100%;
+  background-color: #f1f1f1;
+  position: fixed;
+  overflow: auto;
+  background-color: #D9D9D9;
+  .linked-tools{
+    margin: 78px 0 34px 0;
+  }
+  button
+  {
+    width: 30px;
+    height: 30px;
+    margin: 11px 15px 11px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background-color: #9E9E9E;
+  }
+  svg, img{
+    height: 20px;
+    width: 20px;
+    color: #0A0A0A;
+  }
+}
